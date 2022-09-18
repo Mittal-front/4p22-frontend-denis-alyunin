@@ -1,0 +1,14 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 30%;
+
+}
+
+html {
+  background-color: rgba(216, 111, 13, 0.233);
+}
+
+.style {
+  color: rgb(76, 0, 255);
+}
