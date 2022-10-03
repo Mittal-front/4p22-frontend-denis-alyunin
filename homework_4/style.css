@@ -1,0 +1,126 @@
+.header {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-left: 30px;
+}
+
+.image {
+  margin-bottom: 10px;
+  max-width: 190px;
+}
+
+.image img {
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-top: 50px;
+
+}
+
+.price-info {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  position: relative;
+  max-width: 190px;
+}
+
+.basket {
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(177, 13, 62);
+}
+
+.price {
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+* {
+  box-sizing: border-box;
+}
+  background-color: antiquewhite;
+}
+
+
+}
+
+.container {
+  text-align: center;
+  background-color: aquamarine;
+  width: 200px;
+  height: 300px;
+  color: blue;
+  background-image: url(img.jpg);
+  background-size: 120px;
+}
+
+.name {
+  display: flex;
+
+}
+
+.photo {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  text-align: right;
+}
+
+.menu {
+  display: flex;
+  margin-top: 50px;
+  background-color: aquamarine;
+  text-align: center;
+  color: brown;
+
+}
+
+.cena {
+  display: flex;
+  text-align: center;
+
+}
+
+.button {
+  margin-right: 0px;
+  border-radius: 12px;
+  background-color: brown;
+  color: rgb(9, 228, 20);
+  position: relative;
+}*/
