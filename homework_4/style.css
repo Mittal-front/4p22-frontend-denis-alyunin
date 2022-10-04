@@ -12,7 +12,9 @@
 }
 
 .image img {
-  height: 300px;
+  width: 100%;
+  max-width: 300px;
+  min-height: 300px;
   object-fit: cover;
   border-radius: 20px;
   margin-top: 50px;
@@ -42,7 +44,14 @@
   flex-wrap: wrap;
   row-gap: 10px;
   column-gap: 10px;
+  max-width: 600px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px 50px;
+  list-style: none;
 }
+
+
 
 
 
